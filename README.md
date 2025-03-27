@@ -1,4 +1,10 @@
 # OpenGL Triangle to Square Demo
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>
+</p>
 
 This project demonstrates interactive OpenGL rendering by building a square from triangles using mouse input. The application showcases basic OpenGL concepts including shader creation, vertex buffer management, and user interaction.
 
@@ -58,12 +64,12 @@ This project includes an Xcode project file that can be opened and built directl
 
 ## Author
 
-This project coded by CodeAkdo
+* Website: https://github.com/codeakdo
+* Github: [@codeakdo](https://github.com/codeakdo)
 
-## License
+## Show your support
 
-[Include your preferred license here]
+Give a ⭐️ if this project helped you!
 
-## Acknowledgements
-
-Some code comments are in Turkish as this was originally created as a learning project.
+***
+This Project was Coded by ❤️ codeakdo
